@@ -38,7 +38,7 @@
                 <input type="password" placeholder="Contraseña" name="txtpas">
             </div>
             
-            <button type="submit" name="envia">Entrare<label class="lnr lnr-chevron-right"></label></button>
+            <button type="submit" name="envia">Entrar<label class="lnr lnr-chevron-right"></label></button>
             <center>
                 <label type="text" style="color: red;font-size: 1em;"><?= $mensaje ?></center>
         </form>
